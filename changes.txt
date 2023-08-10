@@ -1,0 +1,4 @@
+	v. 1.01
+- Create file ignored checkpoints
+-  Translate 'Readme' on English
+- DT. Extend range of depth from (1, 8) to (1, 9)

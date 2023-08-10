@@ -1,12 +1,12 @@
-### Проблема
-Отток клиентов из "Бета-Банка" .
+###Problem
+The outflow of customers from "Beta-Bank".
 
-### Цель
-Предугадать уход клиента.
+###Purpose
+Predict customer exit.
 
-### Применяемые модели
-- Дерево решений. f1-score =0.55 (при валидации)
-- Случайный лес. f1-score = 0.58 (при валидации)
+###Used Models
+Decision Tree. f1-score =0.55 (on validation)
+Random Forest. f1-score = 0.58 (on validation)
 
-### Итог
-Реализована модель (RF) с точностью предсказания 80%
+###Conclusion
+Implemented (RF) model with 80% prediction accuracy
